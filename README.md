@@ -1,1 +1,1 @@
-# reactjs-learning-projects
+Learning reactjs, by creating copies of popular web apps.
